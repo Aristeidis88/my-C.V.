@@ -130,7 +130,58 @@ body {padding: 0px;
         width: 480px; height: 330px;}
 
 
+ @media only screen and (max-width:700px){
 
-        @media only screen and (max-width:700px){
+        
+
+        .header {width: 100%;}
+
+        .links a {float: left;
+                  margin-left: auto;
+                  margin-right: auto;
+                  padding: 10px;
+                  padding-left: 125px;
+                  width: 60%;}
+
+        .logo {width: 85%;}
+
+        .logo img {width: 100%;
+                   margin-left: -60px;}
+        
+        .text {width: 50%;
+            margin: inherit;}
+
+        .main {width: 105%;
+               height: 100%;}
+
+        .main h1 {margin: inherit;
+                  width: 80%;
+                  margin-left: 35px;}
+
+        .main img {width: 100%;
+                   height: 100%;
+                   margin: inherit;
+                   margin-left:25px;}
+
+        .main p {margin: inherit;
+                 width: 90%;}
+        
+        .career {width: 100%;}
+
+        .career p {width:80%;}
+
+        .others {width: 100%;
+                 height: 100%;}
+
+        .skills {margin: inherit;}
+
+        .skillsimg {margin: inherit;}
+
+        .skillsimg img {width: 70%;}
+
+        .skillstwo {margin: inherit;}
+
+        footer {height: 350px;}
+}
 
 
