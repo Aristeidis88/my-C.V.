@@ -175,8 +175,8 @@ body {width: 100%;
         .main p {margin: inherit;
                  width: 90%;}
         
-        .career {width: 100%;
-                 height: 100%;}
+       .career {width: 100%;
+                 height: 1300px;}
 
         .career p {width:80%;}
 
@@ -191,5 +191,6 @@ body {width: 100%;
 
         .skillstwo {margin: inherit;}
 
-        footer {height: 100%;}
+        footer {height: 400px;}
+
 }
