@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Montserrat&family=Sacramento&display=swap');
+
+.nav-link {font-size: 22px;
+           font-family: 'merriweather', sans-serif;
+           font-weight: 900;}
+
+.display-4 {color: #4AB19A;   
+            font-family: 'merriweather', sans-serif;
+            font-size: 50px;
+            margin-top: 400px;
+            margin-left: 50px;}
+
+.lead {color: #4AB19A;   
+    font-family: 'merriweather', sans-serif;
+    font-size: 20px;
+    margin-left: 50px;}
+
+.jumbotron {background-color: white;}
+
+
+main {background-color: rgb(34, 32, 32);}
+
+.card {margin: auto;
+       background-color: rgb(34, 32, 32);}
+       
+.card-title {color: #4AB19A;
+        font-size: 35px;
+        font-weight: 900;
+        font-family: 'merriweather', sans-serif;
+        text-align: center;
+        margin-top: 5%;}
+
+.card-text {color: white;
+    font-size: 20px;
+    font-family: 'merriweather', sans-serif;}
+
+.col-md-4 img {margin-top: 10%;}
+
+.display-4-1-1 {color: #4AB19A;
+    font-size: 35px;
+    font-weight: 900;
+    font-family: 'merriweather', sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;}
+
+.display-4-1 {color: #4AB19A;
+    font-size: 22px;
+    font-family: 'merriweather', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;}
+
+.lead-1 {color: #4AB19A;
+    font-size: 18px;
+    font-family: 'merriweather', sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;}
+
+.others {background-color: #4AB19A;}
+
+.skills {color: white;
+    font-family: 'merriweather', sans-serif;
+    padding-top: 5%;
+    margin-left: 15%;}
+
+.skillsimg {margin-left: 20%;}
+
+.skillstwo {color: white;
+    font-family: 'merriweather', sans-serif;
+    margin-left: 60%;
+    padding-bottom: 5%;}
+
+.others p {font-size: 20px;}
+
+footer {text-align: center;
+    background-color: rgb(34, 32, 32);
+    color: white;
+    font-family: 'merriweather', sans-serif;
+    height: 300px;}
+
+footer h1 {font-size: 25px;
+           padding-top: 3%;}
+
+.button  [type=submit] {
+background-color: orange;
+color: black;
+padding: 20px 60px;
+margin: 8px 0px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+font-weight: bold;} 
+
+
+.photos {background-color: black;}
+
+.photos img {margin-left: 2px;
+             margin-top: 5px;
+             width: 500px;
+             height: 330px;}
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1024px){
+    
+    .media img {width: 80%;
+                height: 80%;
+                margin: auto;}
+
+    .display-4 {font-size: 30px;
+                margin: auto;}
+
+    .lead {color: #4AB19A;   
+        font-family: 'merriweather', sans-serif;
+        font-size: 15px;
+        margin: auto;}
+
+    .main {height: 300px;}    
+    
+    
+    
+    .card {height: 1800px;}
+
+    .career {height: 1300px;}
+
+    .skillsimg img{width: 70%;}
+
+    .skillstwo {margin-left: inherit;
+                margin-top: 5%;}
+
+    .others {height: 800px;}
+
+    footer {height: 430px;}
+    }
+
+    .photos img {width: 99%;
+                 height: 99%;}
+
+
+    
+
+    
+    
+
+
+
+
+
+
+    
+
+    
+
+    
+    
+
+    
+           
+    
+
+
+
+
+
+
